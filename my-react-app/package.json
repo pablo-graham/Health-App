@@ -12,7 +12,7 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://pablo-graham.github.io/Health",
+  "homepage": "https://pablo-graham.github.io/Health-App",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -42,5 +42,4 @@
   "devDependencies": {
     "gh-pages": "^6.3.0"
   }
-  
 }
